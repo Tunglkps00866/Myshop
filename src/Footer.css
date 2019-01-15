@@ -1,0 +1,16 @@
+.brand-icon{
+    width: 30%;
+    height: 30%;
+    padding: 5%;
+}
+@media only screen and (max-width: 500px) {
+    .brand-icon{
+        width: 15%;
+        height: 15%;
+        padding: 5%;
+    }
+    
+}
+p{
+    text-align: center;
+}

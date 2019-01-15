@@ -1,0 +1,12 @@
+.carousel-inner img {
+    width: 100%;
+    height: 300px !important;
+}
+
+@media only screen and (max-width: 500px) {
+    .carousel-inner img {
+        width: 100%;
+        height: 100px !important;
+    }
+    
+}

@@ -1,0 +1,28 @@
+.Signin_Form{
+  color: black;
+  text-align: center;
+  background-color:white;
+  padding-top:2%;
+}
+
+.Signin_Form .Form{
+  width: 50%;
+  text-align: left;
+  margin: 0 25%;
+}
+
+.Avata {
+  width: 20%;
+  height: 20%;
+}
+
+.checkbox_remember
+{
+  padding-left:10%;
+  padding-right:10%;
+}
+.button{
+  background-image: none;
+  background-color: black;
+  border: none;
+}
